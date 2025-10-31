@@ -1,2 +1,2 @@
-# cloning-tabnews
-Implementação do https://tabnews.com.br para o https://curso.dev
+# Cloning Tabnews
+Implementação do tabnews[https://tabnews.com.br] para o curso.dev[https://curso.dev]
